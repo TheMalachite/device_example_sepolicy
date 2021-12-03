@@ -1,0 +1,2 @@
+# Audio
+type sysfs_sia81xx_file, fs_type, sysfs_type;

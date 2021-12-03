@@ -1,0 +1,2 @@
+# Audio
+genfscon sysfs /devices/platform/sia81xx@L u:object_r:sysfs_sia81xx_file:s0
